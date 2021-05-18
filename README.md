@@ -1,5 +1,5 @@
 
-# Music-Search
+# Music-Search Spotify
 
 # Getting Started with Create React App
 
