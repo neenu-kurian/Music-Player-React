@@ -1,17 +1,18 @@
 
 # Music-Search Spotify
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple Music search app using Spotify API that enables you to login with your spotify account and search for artists, albums and playlists.
 
 ## Available Scripts
 
-In the project directory, you can run:
+To start the app, first go to the root directory and give the following command to install all dependencies
+
+### `npm install`
+
+To start the app in development mode use:
 
 ### `npm run start`
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
